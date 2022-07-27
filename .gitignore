@@ -4,4 +4,5 @@ example/logs/
 example/data/images/
 example/data/shards_laion/
 
+.ipynb_checkpoints/
 __pycache__/
