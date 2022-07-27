@@ -3,3 +3,5 @@ weights/
 example/logs/
 example/data/images/
 example/data/shards_laion/
+
+__pycache__/
