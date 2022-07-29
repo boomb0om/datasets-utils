@@ -5,7 +5,7 @@
 ```bash
 git clone https://github.com/boomb0om/datasets-utils
 cd datasets-utils/
-pip install -r requirements.txt```
+pip install -r requirements.txt
 ```
 
 ### Usage
